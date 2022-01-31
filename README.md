@@ -20,6 +20,9 @@ module.exports = {
 
 It should be added and populated as suggested in the final notes. 
 
+### This is Chapter02 notes
+Establishing a database connection
+
 ### Project documentation
 Shall be available in the last branch (MONGOOSEPM_11)
 
